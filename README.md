@@ -1,12 +1,6 @@
 # Sandip Kumar Gupta
 
 **Machine Learning Engineer (Entry-Level) | Python & Data Science Instructor | Data Analyst**
-
-LinkedIn: https://www.linkedin.com/in/sandipkumargupta/
-Email: Gupta.kr.sandip@gmail.com
-LeetCode: https://leetcode.com/u/guptakumarsandip/
-DataCamp Portfolio: https://www.datacamp.com/portfolio/guptakrsandip
-
 ---
 
 ## Summary
