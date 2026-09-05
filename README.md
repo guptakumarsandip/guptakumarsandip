@@ -1,6 +1,6 @@
 # Sandip Kumar Gupta
 
-**Machine Learning Engineer (Entry-Level) | Python & Data Science Instructor | Data Analyst**
+**Machine Learning Engineer | Python & Data Science Instructor | Data Analyst**
 ---
 
 ## Summary
